@@ -1,4 +1,4 @@
 # Mandelbrot-Explorer
-Generates Mandelbrot set. Python 2.7
-Run JonZhangMandelbrot.py
-Instructions included in program
+Generates Mandelbrot set. Python 2.7\n
+Run JonZhangMandelbrot.py\n
+Instructions included in program\n
